@@ -3,8 +3,11 @@ This is a Simple MVC application That allow Authorised user to Add Products Deta
 
 # SoftWare Requirements:
 1)Eclipse IDE
+
 2)JDK 1.7 or Higher
+
 3)MySQL Server
+
 4)Apache Server 7.0 or Higher
 
 # Use Following Link To Download Liabraries:
