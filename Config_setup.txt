@@ -14,7 +14,7 @@
  
  5)copy "struts.xml" and "hibernate.cfg.xml" file into "java resources>src" folder
  
- 6)copy all jar files in "webcontent>web-inf>lib" Directory
+ 6)copy all jar files in "webcontent>web-inf>lib" Directory(jar file link provided in README.md file)
  
  7)create package in "java resources>src" folder(in this application package name is "com.abhi")
  
