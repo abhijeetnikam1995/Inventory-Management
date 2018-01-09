@@ -12,11 +12,11 @@
  
  4)Link Project with "Apache tomcat server"
  
- 5)copy "struts.xml" and "hibernate.cfg.xml" file into "src" folder
+ 5)copy "struts.xml" and "hibernate.cfg.xml" file into "java resources>src" folder
  
  6)copy all jar files in "webcontent>web-inf>lib" Directory
  
- 7)create package in "src" folder(in this application package name is "com.abhi")
+ 7)create package in "java resources>src" folder(in this application package name is "com.abhi")
  
  8)copy all .java files in package
  
