@@ -1,3 +1,26 @@
  # Database Setup
-
-create database product;
+ 
+ create database product;
+ 
+ #Steps to Run Application Using Eclipse IDE:
+ 
+ 1)Launch Eclipse IDE
+ 
+ 2)Choose JAVA EE perspective 
+ 
+ 3)Choose File>New>Dynamic web project.
+ 
+ 4)Link Project with "Apache tomcat server"
+ 
+ 5)copy "struts.xml" and "hibernate.cfg.xml" file into "src" folder
+ 
+ 6)copy all jar files in "webcontent>web-inf>lib" Directory
+ 
+ 7)create package in "src" folder(in this application package name is "com.abhi")
+ 
+ 8)copy all .java files in package
+ 
+ 9)copy all .jsp file into "wencontent" directory
+ 
+ 10)copy "web.xml" file into "webcontent>web-inf" directory
+ 
