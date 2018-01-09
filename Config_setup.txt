@@ -18,9 +18,9 @@
  
  7)create package in "java resources>src" folder(in this application package name is "com.abhi")
  
- 8)copy all .java files in package
+ 8)copy all .java files in package(com.abhi)
  
- 9)copy all .jsp file into "wencontent" directory
+ 9)copy all .jsp file into "webcontent" directory
  
  10)copy "web.xml" file into "webcontent>web-inf" directory
  
