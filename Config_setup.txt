@@ -24,3 +24,4 @@
  
  10)copy "web.xml" file into "webcontent>web-inf" directory
  
+ 11)run application on Apache server
