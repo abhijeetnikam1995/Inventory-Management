@@ -10,5 +10,5 @@ This is a Simple MVC application That allow Authorised user to Add Products Deta
 
 4)Apache Server 7.0 or Higher
 
-# Use Following Link To Download Liabraries:
+# Click on Following Link To Download Liabraries:
 https://drive.google.com/open?id=1S9CikwJfyIOoUXfs5v9bBobJp7CR9JJv
