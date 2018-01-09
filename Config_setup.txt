@@ -6,7 +6,7 @@
  
  1)Launch Eclipse IDE
  
- 2)Choose JAVA EE perspective 
+ 2)Choose JAVA EE perspective and select workspace
  
  3)Choose File>New>Dynamic web project.
  
