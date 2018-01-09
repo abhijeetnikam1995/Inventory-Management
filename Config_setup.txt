@@ -1,1 +1,6 @@
 #SoftWare Requirements
+
+1)Eclipse IDE
+2)JDK 1.7 or Higher
+3)MySQL Server
+4)Apache Server
